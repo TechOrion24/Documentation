@@ -1,0 +1,29 @@
+= Visual Studio Code
+
+== Installation
+
+=== Extendsions
+
+
+== Configuration
+
+== Usage
+
+* Select *File > Open Folder*.
+* Select *<Folder>*.
+* Click *Open*.
+* Select *Source Control*.
+* Click *Initialize Repository*.
+* Click *Publish Branch*.
+* Select *Publish to GitHub private repositroy*.
+* Click *Cancel* on *Can't push refs to remote* error message.
+* Select *Terminal > New Terminal*.
+* Type the following command lines.
+----
+echo "= BroCode-JS" >> readme.adoc
+git init
+git add readme.adoc
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+----
