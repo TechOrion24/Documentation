@@ -19,6 +19,8 @@
 * Click *Cancel* on *Can't push refs to remote* error message.
 * Select *Terminal > New Terminal*.
 * Type the following command lines.
++
+[source,powershell]
 ----
 echo "= BroCode-JS" >> readme.adoc
 git init
