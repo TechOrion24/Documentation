@@ -2,8 +2,49 @@
 
 == Installation
 
-=== Extendsions
+=== Extensions
 
+* Select *Extensions*.
+* Install the following extentions.
++
+....
+*. AsciiDoc
+*. Django
+*. ES7+ React/Redux/React-Native snippets
+*. isort
+*. JavaScript (ES6) code snippets
+*. Jupyter
+*. Jupyter Cell Tags
+*. Jupyter Keymap
+*. Jupyter Notebook Renderers
+*. Jupyter Slide Show
+*. Pylance
+*. Python
+*. Python Debugger
+*. Vim
+
+From Traversy Media
+* Prettier - Code formatter
+* GitHub Copilot
+* Live Server
+* Multiple Cursor Case Preserve
+* Git History
+* Git Lens
+* Code Runner
+* Markdown Preview Enhanced
+* Console Ninja
+* RegEx Snippets
+* Polacode
+* Code Spell Checker
+* Document This
+* ChatGPT
+* Peacock
+* Postman
+* REST Client
+* Bookmarks
+* Codiumate/Codium AI
+* Quokka
+....
 
 == Configuration
 
