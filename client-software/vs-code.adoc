@@ -46,6 +46,15 @@ From Traversy Media
 * Quokka
 ....
 
+==== Prettier - Code Formatter
+
+* Select *Gear icon > Settings*.
+* Type *format* in the *Search settings* field.
+* Select *User* tab.
+* Select *Prettier - Code formatter* for the *Editor: Default Formatter*.
+* Check *Editor: Format On Save*.
+* Close *Settings*.
+
 == Configuration
 
 == Usage
