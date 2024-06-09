@@ -8,20 +8,21 @@
 * Install the following extentions.
 +
 ....
-*. AsciiDoc
-*. Django
-*. ES7+ React/Redux/React-Native snippets
-*. isort
-*. JavaScript (ES6) code snippets
-*. Jupyter
-*. Jupyter Cell Tags
-*. Jupyter Keymap
-*. Jupyter Notebook Renderers
-*. Jupyter Slide Show
-*. Pylance
-*. Python
-*. Python Debugger
-*. Vim
+* AsciiDoc
+* Django
+* ES7+ React/Redux/React-Native snippets
+* isort
+* JavaScript (ES6) code snippets
+* Jupyter
+* Jupyter Cell Tags
+* Jupyter Keymap
+* Jupyter Notebook Renderers
+* Jupyter Slide Show
+* Pylance
+* Python
+* Python Debugger
+* Vim
+* Copy On Select
 
 From Traversy Media
 * Prettier - Code formatter
